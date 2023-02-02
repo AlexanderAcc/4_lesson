@@ -1,0 +1,11 @@
+C:\Users\Админ\source\repos\bubble_sort\bubble_sort\bin\Debug\bubble_sort.exe.config
+C:\Users\Админ\source\repos\bubble_sort\bubble_sort\bin\Debug\bubble_sort.exe
+C:\Users\Админ\source\repos\bubble_sort\bubble_sort\bin\Debug\bubble_sort.pdb
+C:\Users\Админ\source\repos\bubble_sort\bubble_sort\obj\Debug\bubble_sort.csproj.AssemblyReference.cache
+C:\Users\Админ\source\repos\bubble_sort\bubble_sort\obj\Debug\bubble_sort.csproj.SuggestedBindingRedirects.cache
+C:\Users\Админ\source\repos\bubble_sort\bubble_sort\obj\Debug\bubble_sort.Form1.resources
+C:\Users\Админ\source\repos\bubble_sort\bubble_sort\obj\Debug\bubble_sort.Properties.Resources.resources
+C:\Users\Админ\source\repos\bubble_sort\bubble_sort\obj\Debug\bubble_sort.csproj.GenerateResource.cache
+C:\Users\Админ\source\repos\bubble_sort\bubble_sort\obj\Debug\bubble_sort.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\bubble_sort\bubble_sort\obj\Debug\bubble_sort.exe
+C:\Users\Админ\source\repos\bubble_sort\bubble_sort\obj\Debug\bubble_sort.pdb
